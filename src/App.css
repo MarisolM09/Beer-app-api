@@ -1,0 +1,14 @@
+.beers {
+  list-style: none;
+  text-align: center;
+  flex-wrap: wrap;
+}
+
+.image {
+  height: 180px;
+  
+}
+
+h1 {
+  font-size: 50px;
+}
